@@ -7,6 +7,6 @@ For my teammates, quick guide to use gitHub :
   2. Git clone the reporitory with ssh agent. 
   3. To upload your code : 
         - git fetch
-        - git add * (to add all modified files, you can also ass each file individually)
+        - git add * (to add all modified files, you can also add each file individually)
         - git commit (please write a small description)
         - git push
