@@ -14,6 +14,6 @@ For my teammates, quick guide to use gitHub :
 Please refer to this wepage (https://github.com/ultralytics/yolov5) 
 
 For Training, use this command
-'''
+```
 python train.py --data data/arisu.yaml --epochs 300 --weights 'yolov5n.pt' --cfg yolov5n.yaml  --batch-size 128 --name results
-'''
+```
